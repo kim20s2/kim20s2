@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me is to email me (kim24k2qq@gmail.com)
+- 📫 How to reach me is to email or twit me
 
 <!---
 kim20s2/kim20s2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
