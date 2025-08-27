@@ -12,11 +12,13 @@
 
 ## 🧠 주요 프로젝트
 
-- 🐸 **[황소개구리 게임](https://github.com/GaramSong-95/Project-AmericanBullfrog)**:  
-  Cortex-M3 기반의 STM32F 보드와 C++ 기반 도트 감성 황소개구리 생존 게임
+- 🐸 **[IoT 스마트홈 시스템](https://github.com/kim20s2/MiniProject2)**:  
+  Cortex-M4 기반의 STM32F 보드와 여러 센서 모듈(PIR 센서, 플레임 센서, 진동 센서, 가스 센서)을 이용해 화재, 가스, 지진 감지 알람 시스템을 만들고,
+  NTP서버와 기상청 API를 이용하여 현재시간과 외부날씨(온습도,강수여부)등의 데이터를 이용
+  온습도센서를 활용하여 
 
-- 💨 **[스마트 핸디팬](https://github.com/GaramSong-95/Project-SmartHandyFan)**:  
-  Cortex-M3 mini기반의 온습도 센서와 모터 제어를 활용한 자동 스마트 핸디팬 제작
+- 💨 **[디지털 원격제어 시계](https://github.com/kim20s2/MiniProject1)**:  
+  Cortex-M4 기반의 STM32F 보드와 LCD1602, RTC모듈(DS1302), IR센서기, 리모컨, WIFI 모듈 등을 활용한 디지털 원격 제어 시계 제작
 
 
 ---
