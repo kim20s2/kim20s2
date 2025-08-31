@@ -16,7 +16,7 @@
   Cortex-M4 기반의 STM32F 보드와 여러 센서 모듈(PIR, 플레임, 진동, 가스)을 이용해 화재, 가스, 지진 감지 알람 시스템을 만들고,
   NTP서버와 기상청 API를 이용하여 현재시간과 기상청 날씨(온습도,강수여부) 및 온습도센서(DHT11)를 활용하여 방안 내부 온도 자동조절 및 자동환기 기능 구현
   
-- 🕒 **[디지털 원격제어 시계](https://github.com/kim20s2/MiniProject1)**:  
+- 🕒 **[디지털 원격 제어 시계](https://github.com/kim20s2/MiniProject1)**:  
   Cortex-M4 기반의 STM32F 보드와 LCD1602, RTC모듈(DS1302), IR센서기, 리모컨, WIFI 모듈 등을 활용한 디지털 원격 제어 시계 제작
 
 
