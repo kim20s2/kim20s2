@@ -7,17 +7,18 @@
 
 ---
 🎓 현재 구직 중.
-🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP  
+🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP, DB, LaspberryPi, Arduino, STM32, FreeRTOS  
 📫 How to reach me: [kim24k2qq@gmail.com](mailto:kim24k2qq@gmail.com)   
 
 ## 🧠 주요 프로젝트
 
 - 🏠 **[IoT 스마트홈 시스템](https://github.com/kim20s2/MiniProject2)**:  
-  Cortex-M4 기반의 STM32F 보드와 여러 센서 모듈(PIR, 플레임, 진동, 가스)을 이용해 화재, 가스, 지진 감지 알람 시스템을 만들고,
-  NTP서버와 기상청 API를 이용하여 현재시간과 기상청 날씨(온습도,강수여부) 및 온습도센서(DHT11)를 활용하여 방안 내부 온도 자동조절 및 자동환기 기능 구현
+  Cortex-M4 기반 STM32F 보드와 PIR·플레임·진동·가스 센서 등을 활용하여 화재, 가스 누출, 지진 등을 감지하는 알람 시스템을 구축.
+  NTP 서버와 기상청 API를 통해 현재 시간을 동기화하고 날씨 정보를 받아오며, 온습도 센서(DHT11)를 연동하여 실내 온도 자동 조절 및 자동 환기 기능을 구현.
   
 - 🕒 **[디지털 원격 제어 시계](https://github.com/kim20s2/MiniProject1)**:  
-  Cortex-M4 기반의 STM32F 보드와 LCD1602, RTC모듈(DS1302), IR센서기, 리모컨, WIFI 모듈 등을 활용한 디지털 원격 제어 시계 제작
+  Cortex-M4 기반 STM32F 보드에 LCD1602, DS1302 RTC 모듈, IR 수신기 및 리모컨, WiFi 모듈 등을 결합하여 디지털 원격 제어 시계를 제작.
+  리모컨으로 시간을 설정하고, WiFi를 통해 NTP 서버와 동기화하여 정확한 시간을 유지할 수 있으며, 알람 기능도 함께 제공.
 
 
 ---
