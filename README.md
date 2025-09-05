@@ -7,6 +7,7 @@
 
 ---
 🎓 현재 구직 중.
+
 🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP, DB, LaspberryPi, Arduino, STM32, FreeRTOS  
 📫 How to reach me: [kim24k2qq@gmail.com](mailto:kim24k2qq@gmail.com)   
 
