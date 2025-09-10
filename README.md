@@ -9,6 +9,7 @@
 🎓 현재 구직 중
 
 🔧 Tech stack: C/C++, Python, Embedded Linux, Firmware, BSP, DB, LaspberryPi, Arduino, STM32, FreeRTOS, OpenVINO, Deep Learning
+
 📫 How to reach me: [kim24k2qq@gmail.com](mailto:kim24k2qq@gmail.com)   
 
 ## 🧠 주요 프로젝트
