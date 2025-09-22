@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 임베디드 개발자입니다!
 
-🏅 Intel Edge AI Academy  
+🏅 Intel Edge AI Academy 8기 수료 
   
 🚗 최근에는 ~ 개발했어요.  
 💡 다양한 임베디드 프로젝트를 직접 설계하고 구현하며 경험을 쌓고 있습니다.  
@@ -8,7 +8,7 @@
 ---
 🎓 현재 구직 중
 
-🔧 Tech stack: C/C++, Python, Embedded Linux, Firmware, BSP, DB, LaspberryPi, Arduino, STM32, FreeRTOS, OpenVINO, Deep Learning
+🔧 Tech stack: C/C++, Python, Embedded Linux, Firmware, BSP, MariaDB, LaspberryPi-Hailo8(AI KIT HAT), Arduino, STM32F4, FreeRTOS, OpenVINO, Deep Learning
 
 📫 How to reach me: [kim24k2qq@gmail.com](mailto:kim24k2qq@gmail.com)   
 
