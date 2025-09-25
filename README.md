@@ -8,7 +8,7 @@
 ---
 🎓 현재 구직 중
 
-🔧 Tech stack: C/C++, Python, Embedded Linux, Firmware, BSP, MariaDB, LaspberryPi-Hailo8(AI KIT HAT), Arduino, STM32F4, FreeRTOS, OpenVINO, Deep Learning
+🔧 Tech stack: C/C++, Python, Embedded Linux, Firmware, BSP, MariaDB, LaspberryPi-Hailo8(AI Accelerator), Pi Camera Module V3, Arduino, STM32, FreeRTOS, OpenVINO, Deep Learning, OpenCV
 
 📫 How to reach me: [kim24k2qq@gmail.com](mailto:kim24k2qq@gmail.com)   
 
