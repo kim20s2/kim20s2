@@ -14,8 +14,8 @@
 
 ## 🧠 주요 프로젝트
 
-- 🏠 **[모의 면접자 평가 시스템](https://github.com/kim20s2/Project1)**:
-  temp
+- 🏠 **[AI 모의 면접 평가 시스템](https://github.com/kim20s2/Project1)**:
+  Jetson Nano(또는 Raspberry Pi 5 + Hailo-8) 기반 AI 카메라로 면접자의 얼굴 표정(긍정·중립·부정)과 자세(좋음·보통·나쁨), 다리 떨림을 실시간 추론하고 화면에 HUD로 표시. OpenCV와 TensorRT/HailoRT로 경량화해 저사양에서도 동작하며, Flask REST 서버와 웹 UI를 통해 카메라 ON/OFF·녹화 시작/종료·결과 다운로드를 제어. 세션 동안 MP4/WAV와 XML 메타데이터를 저장하고, 종료 후 표정 비율·자세 점수·이벤트 타임라인을 자동 분석 리포트로 제공. USB/RealSense/RTSP 등 다양한 카메라를 지원하고, 베이스라인 캘리브레이션(b)→녹화 트리거(t) 워크플로로 일관된 비교가 가능해 면접 피드백에 바로 활용 가능.
 
 - 🏠 **[IoT 스마트홈 시스템](https://github.com/kim20s2/MiniProject2)**:  
   Cortex-M4 기반 STM32F 보드와 PIR·플레임·진동·가스 센서 등을 활용하여 화재, 가스 누출, 지진 등을 감지하는 알람 시스템을 구축.
