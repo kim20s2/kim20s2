@@ -32,23 +32,79 @@
 
 ## 🛠 기술 스택
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux Embedded](https://img.shields.io/badge/Linux_Embedded-000000?style=flat&logo=linux&logoColor=white)
-![Firmware](https://img.shields.io/badge/Firmware-555555?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-![BSP](https://img.shields.io/badge/BSP-007ACC?style=flat)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-7348B6?style=flat)
+🧱 Core Languages & Essentials : 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+🧠 Edge AI / ML : 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-632CA6?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
+![Ultralytics%20YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-0A66C2?style=flat-square&logo=ultralytics&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+🎥 Vision I/O & Streaming : 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![GStreamer](https://img.shields.io/badge/GStreamer-FF6F00?style=flat-square&logo=gstreamer&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![RTSP](https://img.shields.io/badge/RTSP-232F3E?style=flat-square)
+![V4L2](https://img.shields.io/badge/V4L2-5E5E5E?style=flat-square)
+![Intel%20RealSense](https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white)
+
+🟩 NVIDIA Jetson & 🟨 Hailo : 
+![Jetson%20Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![JetPack](https://img.shields.io/badge/JetPack-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![HailoRT](https://img.shields.io/badge/HailoRT-FF3366?style=flat-square)
+![TAPPAS](https://img.shields.io/badge/TAPPAS-FF3366?style=flat-square)
+![DFC](https://img.shields.io/badge/DFC-FF3366?style=flat-square)
+![HEF](https://img.shields.io/badge/HEF-FF3366?style=flat-square)
+
+🔧 Embedded / RTOS & HW I/O : 
+![Linux%20Embedded](https://img.shields.io/badge/Linux_Embedded-000000?style=flat-square&logo=linux&logoColor=white)
+![BSP](https://img.shields.io/badge/BSP-007ACC?style=flat-square)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
+![STM32CubeMX/HAL](https://img.shields.io/badge/STM32CubeMX/HAL-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=flat-square)
+![Keil%20uVision](https://img.shields.io/badge/Keil%20uVision-0091BD?style=flat-square&logo=arm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Firmware](https://img.shields.io/badge/Firmware-555555?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-444444?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-444444?style=flat-square)
+![UART](https://img.shields.io/badge/UART-444444?style=flat-square)
+![PWM](https://img.shields.io/badge/PWM-444444?style=flat-square)
+![GPIO](https://img.shields.io/badge/GPIO-444444?style=flat-square)
+
+🌐 Backend / Data : 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST%20API](https://img.shields.io/badge/REST%20API-4A90E2?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-333333?style=flat-square&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NTP](https://img.shields.io/badge/NTP-1E90FF?style=flat-square)
+
+🖥 OS / Tools & Docs : 
+![Linux%20(Ubuntu)](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Microsoft%20Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid-1F8ACB?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
