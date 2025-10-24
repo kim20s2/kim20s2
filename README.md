@@ -8,7 +8,7 @@
 ---
 🎓 현재 구직 중
 
-🔧 Tech stack: C/C++, Python, Embedded Linux, Firmware, BSP, MariaDB, LaspberryPi + Hailo8(AI Accelerator), Pi Camera Module V3, Jetson Nano, Arduino, STM32, FreeRTOS, OpenVINO, Deep Learning, OpenCV
+🔧 Tech stack: C/C++, Python, Embedded Linux, Firmware, BSP, MariaDB, LaspberryPi + Hailo8(AI Accelerator), Pi Camera Module V3, Jetson Nano, Arduino, STM32, FreeRTOS, OpenVINO, intelGeti, Deep Learning, OpenCV
 
 📫 How to reach me: [kim24k2qq@gmail.com](mailto:kim24k2qq@gmail.com)   
 
@@ -43,13 +43,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-632CA6?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Ultralytics%20YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-0A66C2?style=flat-square&logo=ultralytics&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Intel Geti](https://img.shields.io/badge/Intel%20Geti-0071C5?style=flat-square&logo=intel&logoColor=white)
 
 🎥 Vision I/O & Streaming : 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -64,6 +64,7 @@
 ![JetPack](https://img.shields.io/badge/JetPack-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![HailoRT](https://img.shields.io/badge/HailoRT-FF3366?style=flat-square)
 ![TAPPAS](https://img.shields.io/badge/TAPPAS-FF3366?style=flat-square)
 ![DFC](https://img.shields.io/badge/DFC-FF3366?style=flat-square)
